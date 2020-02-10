@@ -17,4 +17,4 @@ This repo contains the data which I have learned from Multi Skill Training Progr
 [Problem solving using raptor](https://sites.google.com/view/17nm5a0202-mstp-level1/mstp-program/day-6)
 - Taking input from raptor
 - Multiplication of two numbers
-- Conversion of Dollar to Rupee and Vice versa
+- [Conversion of Dollar to Rupee and Vice versa](https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/dollor%20to%20rupee%20conversion.rap)
