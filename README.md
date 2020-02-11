@@ -17,7 +17,7 @@ This repo contains the data which I have learned from Multi Skill Training Progr
 [Problem solving using raptor](https://sites.google.com/view/17nm5a0202-mstp-level1/mstp-program/day-6)
 - Taking input from raptor(https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/name.rap)
 - Multiplication of two numbers(https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/multiplication.rap)
-- [Conversion of Dollar to Rupee and Vice versa](https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/dollor%20to%20rupee%20conversion.rap)
+- Conversion of Dollar to Rupee and Vice versa (https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/dollor%20to%20rupee%20conversion.rap)
 
 [Problem solving Skills Using Raptor](https://sites.google.com/view/17nm5a0202-mstp-level1/mstp-program/day-7)
  - To Find A Given Number Is Even or Odd(https://github.com/Laxmi-Lahari/MSTP/blob/master/Level%20-%201%20Productivity%20Enhancement%20and%20Computational%20Thinking/even%20or%20odd.rap)
